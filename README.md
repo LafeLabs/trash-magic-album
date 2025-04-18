@@ -1,148 +1,19 @@
-## [http://localhost/CARDBOARD-HYPERTEXT/readme.html](http://localhost/CARDBOARD-HYPERTEXT/readme.html)
+# [Trash Magic Album](github.com/LafeLabs/trash-magic-album)
 
-## [http://localhost/CARDBOARD-HYPERTEXT/](http://localhost/CARDBOARD-HYPERTEXT/)
+### Trash Magic replicator URL:
+```
+https://raw.githubusercontent.com/LafeLabs/trash-magic-album/refs/heads/main/php/replicator.txt
+```
 
-# [LIVE INSTANCE AT TRASHROBOT.NET](https://www.trashrobot.net/CARDBOARD-HYPERTEXT/)
+Trash Magic is self-replicating media on the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web).  This repository is a self-replicating set of files which create albums of music tracks as a web page. 
 
-# [CARDBOARD HYPERTEXT](https://github.com/LafeLabs/CARDBOARD-HYPERTEXT)
+The purpose of Trash Magic is to build a society without mines, where we build everything we need from trash and what we can grow using self-relicaitng media.  To start this process, we take laptops driven into [planned obsolescence](https://en.wikipedia.org/wiki/Planned_obsolescence) by the tech industry and convert them into free media machines using free software which can both create and share media directly over local networks.
 
-WHEN CARDBOARD HAS QR CODES OR URLS ON IT, CARDBOARD BECOMES HYPERTEXT!
+We then use these physical servers rescued from the consumer waste stream and use them for direct distribution of media of all kinds inclding music, podcasts, news, science, math, technology, books, zines, and absolutely anything else that can be recorded on media.  
 
-WHEN THE WEB POINTS TO PLACES WHERE CARDBOARD FLOWS ALONG THE [STREET NETWORK](https://github.com/LafeLabs/STREET-NETWORK), THE WEB EXTENDS INTO THE STREETS!
+We call these trash magic servers because they can "serve" content to anyone on whatever network they are on.  These servers have no private property and no private users, they are just used for totally free distribution of media.  
 
-![](https://raw.githubusercontent.com/LafeLabs/CARDBOARD-HYPERTEXT/refs/heads/main/qrcode.png)
-![](https://raw.githubusercontent.com/LafeLabs/CARDBOARD-HYPERTEXT/refs/heads/main/qrcode-page.png)
-![](https://raw.githubusercontent.com/LafeLabs/CARDBOARD-HYPERTEXT/refs/heads/main/qrcode-list.png)
+This repository is specifically for building albums in trash magic.  On any given trash magic server, you can use the replicator link above to make a branch that is this album. Then you can drop music files into the folder "tracks" and they should all load in the browser.  
 
-### [GLOBAL TRASH MAGIC REPLICATOR LINK](https://raw.githubusercontent.com/LafeLabs/CARDBOARD-HYPERTEXT/refs/heads/main/php/replicator.txt)
+One server could in theory have hundreds of albums or more!  Each album can have a whole universe of social media linking listeners with creators and with each other and building community outside of the centralized control of the tech corporations which have seized power over the Internet.
 
-
-## ELEMENTS OF THE SYSTEM
-
- - CARDBOARD SIGNS
- - 3 INCH BY 5 INCH CARDBOARD CARDS
- - 4 INCH CARDBOARD SQUARES
- - GEOMETRON HYPERCUBE
- - CARDBOARD BOXES
- - TRASH CLOUD WEB PAGES
- - QR CODES
- - [SERVERS ON CLOUD](https://github.com/LafeLabs/TRASH-CLOUD)
- - SERVERS ON PRIVATE COMPUTERS WITH [XAMPP](https://www.apachefriends.org/)
- - [TRASH MAGIC SERVERS](github.com/LafeLabs/REPLICATE-TRASH-MAGIC-SERVER)
- - SERVERS ON ANDROID PHONES
- - [THE UNIT, THE GREATEST RULER IN THE WORLD!](HTTPS://WWW.THE-UNIT.ORG)
- - THIS SET OF CODE, LISTED BELOW:
-
-
-## HTML AND TEXT FILES:
-
-  - [README.md](README.md)
-  - [branch.html](branch.html)
-  - [delete-html.html](delete-html.html)
-  - [delete-php.html](delete-php.html)
-  - [dna.txt](dna.txt)
-  - [edit-html.html](edit-html.html)
-  - [edit-index.html](edit-index.html)
-  - [edit-php.html](edit-php.html)
-  - [edit-qrcode-list.html](edit-qrcode-list.html)
-  - [freebox.html](freebox.html)
-  - [geometron-squares.html](geometron-squares.html)
-  - [geometron.js](geometron.js)
-  - [index.html](index.html)
-  - [qrcode-list.html](qrcode-list.html)
-  - [qrcode-list.txt](qrcode-list.txt)
-  - [qrcode-page.html](qrcode-page.html)
-  - [qrcode.html](qrcode.html)
-  - [readme.html](readme.html)
-  - [squares.html](squares.html)
-  - [trashmagic.css](trashmagic.css)
-  - [trashmagic.js](trashmagic.js)
-  - [wall.txt](wall.txt)
-
-## PHP CODE AS RAW TEXT:
-
-  - [php/branch.txt](php/branch.txt)
-  - [php/compile-php.txt](php/compile-php.txt)
-  - [php/delete-branch.txt](php/delete-branch.txt)
-  - [php/delete-file.txt](php/delete-file.txt)
-  - [php/generate-dna.txt](php/generate-dna.txt)
-  - [php/list-branches.txt](php/list-branches.txt)
-  - [php/list-files.txt](php/list-files.txt)
-  - [php/load-file.txt](php/load-file.txt)
-  - [php/local-replicator.txt](php/local-replicator.txt)
-  - [php/replicator.txt](php/replicator.txt)
-  - [php/save-file.txt](php/save-file.txt)
-  - [php/save-png.txt](php/save-png.txt)
-  - [php/upload-image.txt](php/upload-image.txt)
-
-
-
-## CARDBOARD SIGNS
-
-![](https://raw.githubusercontent.com/LafeLabs/CARDBOARD-HYPERTEXT/refs/heads/main/CARDBOARD-SIGN.png)
-
-PRINT QR CODES AND PUT THEM ON SIGNS!
-
-WRITE URLS ON SIGNS!
-
-SIGNS BECOME HYPERTEXT!
-
-PLACE SIGNS IN PUBLIC!
-
-POINT WEB URLS TO PLACES WITH SIGNS!
-
-USE SIGNS TO BRIDGE THE GAP BETWEEN THE PHYSICAL STREETS AND THE WORLD WIDE WEB, TO MAKE THE STREETS INTO HYPERTEXT!
-
-
-## 3X5 INCH CARDBOARD CARDS
-
-CUT OUT 3 BY 5 INCH CARDS! ADD QR CODES! ADD URLS!  PLACE IN SPACES! PLACE IN HYPERCUBES!
-
-STACK TO MAKE INTO CARD DRIVES!  
-
-CUT OUT SPACES FOR THUMB DRIVES INTO A GLUED STACK!
-
-![](https://raw.githubusercontent.com/LafeLabs/CARDBOARD-HYPERTEXT/refs/heads/main/CARDBOARD-CARDS.png)
-
-## 4 INCH CARDBOARD SQUARES
-
-![](https://raw.githubusercontent.com/LafeLabs/CARDBOARD-HYPERTEXT/refs/heads/main/SQUARES.png)
-
-## GEOMETRON HYPERCUBE
-
-THE GEOMETRON HYPERCUBE IS CONSTRUCTED FROM A SET OF 4 INCH SQUARES ACCORDING TO THE FOLLOWING PLANS:
-
-![](https://raw.githubusercontent.com/LafeLabs/CARDBOARD-HYPERTEXT/refs/heads/main/cardboardbottom.jpg)
-
-
-![](https://raw.githubusercontent.com/LafeLabs/CARDBOARD-HYPERTEXT/refs/heads/main/cardboardside.jpg)
-
-
-![](https://raw.githubusercontent.com/LafeLabs/CARDBOARD-HYPERTEXT/refs/heads/main/cardboardcorner.jpg)
-
-![](https://raw.githubusercontent.com/LafeLabs/CARDBOARD-HYPERTEXT/refs/heads/main/road3cubes.jpg)
-
-![](https://raw.githubusercontent.com/LafeLabs/CARDBOARD-HYPERTEXT/refs/heads/main/CUBE-CARDS.png)
-
-![](https://raw.githubusercontent.com/LafeLabs/CARDBOARD-HYPERTEXT/refs/heads/main/GEOMETRON-HYPERCUBE.png)        
-
-
-## CARDBOARD BOXES
-
-FIND BOXES AND TURN THEM INTO HYPERTEXT WITH MARKERS AND QR CODES!
-
-![](https://raw.githubusercontent.com/LafeLabs/CARDBOARD-HYPERTEXT/refs/heads/main/CARDBOARD-BOX.png)
-
-## LOCAL PRIVATE SERVER
-
-### [INSTALL XAMPP](https://www.apachefriends.org/)
-
-
-## CARDBOARD-HYPERTEXT ON CLOUD
-
- - [WWW.TRASHROBOT.NET/CARDBOARD-HYPERTEXT/](HTTPS://WWW.TRASHROBOT.NET/CARDBOARD-HYPERTEXT/)
-
-## QR CODES
-
- - [qrcode.html](qrcode.html)
- - [qrcode-page.html](qrcode-page.html)

@@ -1,5 +1,5 @@
 <?php
-$dnaurl = "http://10.0.0.26/album/dna.txt";
+$dnaurl = "https://raw.githubusercontent.com/LafeLabs/trash-magic-album/refs/heads/main/dna.txt";
 
 if(isset($_GET["dna"])){
     $dnaurl = $_GET["dna"];
@@ -12,7 +12,8 @@ $dna = json_decode($dnaraw);
 mkdir("php");
 mkdir("tracks");
 
-copy("http://10.0.0.26/album/php/replicator.txt","replicator.php");
+copy("https://raw.githubusercontent.com/LafeLabs/trash-magic-album/refs/heads/main/php/replicator.txt","replicator.php");
+
 
 
 foreach($dna->html as $value){
